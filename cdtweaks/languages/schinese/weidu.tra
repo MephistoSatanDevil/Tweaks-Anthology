@@ -905,7 +905,7 @@ https://www.gibberlings3.net/forums/topic/30082-tweaks-anthology-helper-tool-upd
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
 // deprecated: you don't have to translate @500000
-@500000 = ~掘地虫壳，冬狼毛皮和翼龙的头可堆叠~
+@500000 = ~掘地虫壳，冬狼毛皮和双足飞龙的头可堆叠~
 
 @501000 = ~允许成对的队友分开（例如贾希拉和卡立德，戴娜黑和明斯克，萨尔和蒙塔罗等）~
 
@@ -941,13 +941,13 @@ https://www.gibberlings3.net/forums/topic/30082-tweaks-anthology-helper-tool-upd
 
 @607000 = "盗贼职业专长：防御翻滚 [Luke]"
 
-@608000 = "圣武士/黑卫职业专长：神恩/黑暗祝福 [Luke]"
+@608000 = "圣武士/黑暗卫士职业专长：神恩/黑暗祝福 [Luke]"
 
 @609000 = "半身人种族专长：精准射击 [Luke]"
 
 @610000 = "战士职业专长：顺势斩 [Luke]"
 
-@611000 = "黑卫职业专长：偷袭 [Luke]"
+@611000 = "黑暗卫士职业专长：偷袭 [Luke]"
 
 @612000 = "半身人种族专长：无畏 [Luke]"
 
@@ -985,7 +985,7 @@ https://www.gibberlings3.net/forums/topic/30082-tweaks-anthology-helper-tool-upd
 
 @629000 = "施法者职业专长：法术穿透 [Luke]"
 
-@630000 = "圣武士/黑卫职业专长：破邪斩/破善斩 [Luke]"
+@630000 = "圣武士/黑暗卫士职业专长：破邪斩/破善斩 [Luke]"
 
 @631000 = "德鲁伊职业专长：穿林步 [Luke]"
 
